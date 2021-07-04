@@ -19,7 +19,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         
         let window = NSWindow(contentRect: rect, styleMask: [.titled, .closable, .resizable], backing: .buffered, defer: false)
         window.title = "SKTetris"
-        //window.contentView = GameView(frame: rect)
+        window.contentView = GameView(frame: rect)
         window.makeKeyAndOrderFront(nil)
         window.toggleFullScreen(nil)
     }
