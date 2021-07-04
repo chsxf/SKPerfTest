@@ -24,8 +24,8 @@ If you want to play on your iPhone, iPad or Apple TV, please clone this reposito
 
 In order to test with or without a sprite atlas, you have to change the value of the `useSingleAtlas` boolean in [GameView.swift](https://github.com/chsxf/SKPerfTest/blob/main/Shared/Sources/GameView.swift).
 
-# ⚖️ Licence
+# ⚖️ License
 
-Source code is distributed under the [MIT Licence](LICENSE).
+Source code is distributed under the [MIT License](LICENSE).
 
 Unfortunately, the author of the spritesheet in unknown.
