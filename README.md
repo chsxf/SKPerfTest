@@ -22,4 +22,6 @@ If you want to play on your iPhone, iPad or Apple TV, please clone this reposito
 
 # ⚖️ Licence
 
-All source code and assets are distributed under the [MIT Licence](LICENSE).
+Source code is distributed under the [MIT Licence](LICENSE).
+
+Unfortunately, the author of the spritesheet in unknown.
